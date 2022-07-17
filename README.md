@@ -21,7 +21,7 @@ This is the version of the Murder Ink site that was the concept for what later b
 This project is just here to show how I can take ideas from others and merge it into a viable end product. I enjoy working with others, and the final site wouldn't be here if it weren't for the collaboration between myself and the team. 
 
 ## Examples:
-Take a look at these couple examples that I have in my own portfolio:
+Take a look at these examples that I have in my own portfolio:
 
 **Portfolio:** https://github.com/Hazelwize/Portfolio
 
