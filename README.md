@@ -14,7 +14,7 @@ This is the version of the Murder Ink site that was the concept for what later b
 
 ## Optimizations
 
-You can see the final product here: **Final Site:** https://hazelwize.github.io/murderInk/
+**You can see the final product here:** https://hazelwize.github.io/murderInk/
 
 ## Lessons Learned:
 
